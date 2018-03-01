@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [安装](guide/installation.md)
 * [介绍](guide/index.md)
 * [Vue 实例](guide/instance.md)
@@ -27,4 +26,6 @@
 * [状态管理](guide/state-management.md)
 * [服务器渲染](guide/ssr.md)
 * [深入响应式原理](guide/reactivity.md)
+
+
 
