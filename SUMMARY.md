@@ -9,7 +9,7 @@
 * [Class 与 Style 绑定](guide/class-and-style.md)
 * [条件渲染](guide/conditional.md)
 * [列表渲染](guide/list.md)
-* 事件处理
+* [事件处理](guide/events.md)
 * [表单输入绑定](guide/forms.md)
 * [组件](guide/components.md)
 * [进入/离开 & 列表过渡](guide/transitions.md)
